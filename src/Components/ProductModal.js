@@ -42,7 +42,7 @@ const ProductModal=({open,handleClose,product})=>{
 <Modal
 open={open}
 onClose={handleClose}>
-<Box sx={{...styles.boxstyle,width:400}}>
+<Box sx={{...styles.boxstyle}}>
 <IconButton onClick={handleClose} color='inherit' sx={styles.iconBtn}>
 <CloseIcon />
 </IconButton>

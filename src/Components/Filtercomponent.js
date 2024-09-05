@@ -5,12 +5,12 @@ import { TextField,MenuItem,FormControl,Select,Box ,Grid} from '@mui/material';
 const styles={
     textfieldStyle:{
         
-            height: 35,marginTop:'20px',ml:1,mb:2, 
+            height: 35,marginTop:'20px',mb:2, 
             '& .MuiInputBase-root': {
                 height: '100%', 
             },
             '& .MuiOutlinedInput-root': {
-                borderRadius: '8px',
+                
                 '&.Mui-focused fieldset': {
                     borderColor: '#BF77F6', 
                 },
