@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ecommerce/static/css/main.f855e6bc.css",
-    "main.js": "/ecommerce/static/js/main.19a887c6.js",
+    "main.js": "/ecommerce/static/js/main.907ee706.js",
     "static/js/453.f30b79e5.chunk.js": "/ecommerce/static/js/453.f30b79e5.chunk.js",
     "static/media/dress.jpeg": "/ecommerce/static/media/dress.34787d9033ac294ad583.jpeg",
     "static/media/watch.jpg": "/ecommerce/static/media/watch.152da57e69cc29a20e99.jpg",
     "index.html": "/ecommerce/index.html",
     "main.f855e6bc.css.map": "/ecommerce/static/css/main.f855e6bc.css.map",
-    "main.19a887c6.js.map": "/ecommerce/static/js/main.19a887c6.js.map",
+    "main.907ee706.js.map": "/ecommerce/static/js/main.907ee706.js.map",
     "453.f30b79e5.chunk.js.map": "/ecommerce/static/js/453.f30b79e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.19a887c6.js"
+    "static/js/main.907ee706.js"
   ]
 }
