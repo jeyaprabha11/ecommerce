@@ -24,7 +24,7 @@ const styles={
     },
     selectStyle:{
         
-            height: 35,marginTop:'20px',mr:1,mb:2,
+            height: 35,marginTop:'20px',mb:2,
             '& .MuiSelect-select': {
                 height: '100%', 
                 display: 'flex',
